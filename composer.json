@@ -1,19 +1,5 @@
 {
     "name": "royalcms/ide-helper",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "王正东",
-            "email": "wangzhengdong@ecmoban.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {}
-}
-
-{
-    "name": "royalcms/ide-helper",
     "description": "The Royalcms ide-helper package.",
     "type": "library",
     "license": "MIT",
