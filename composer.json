@@ -18,9 +18,7 @@
         "php": ">=5.5.9"
     },
     "autoload": {
-        "psr-4": {
-            "Royalcms\\Component\\IDEHelper\\": "Royalcms/Component/IDEHelper"
-        }
+        "psr-4": {}
     },
     "extra": {
         "branch-alias": {
