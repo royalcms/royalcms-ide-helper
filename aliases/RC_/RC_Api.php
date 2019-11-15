@@ -6,7 +6,7 @@
  * Time: 10:23 AM
  */
 
-class RC_Api extends Royalcms\Component\Foundation\Api
+class RC_Api extends Royalcms\Component\Service\ApiCall
 {
 
 }
