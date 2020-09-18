@@ -6,7 +6,7 @@
  * Time: 10:19 AM
  */
 
-class RC_Script extends Royalcms\Component\Script\Script
+class RC_Script extends Royalcms\Component\Script\Facades\Script
 {
 
 
