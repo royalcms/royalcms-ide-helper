@@ -6,7 +6,7 @@
  * Time: 10:19 AM
  */
 
-class RC_ENV extends Royalcms\Component\Support\Facades\Environment
+class RC_ENV extends Royalcms\Component\Environment\Facades\Environment
 {
 
 }
