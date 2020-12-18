@@ -6,7 +6,7 @@
  * Time: 10:20 AM
  */
 
-class RC_Mail extends Royalcms\Component\Mail\Facades\Mail
+class RC_Mail extends Royalcms\Component\Support\Facades\Mail
 {
 
 }
